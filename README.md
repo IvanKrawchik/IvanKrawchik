@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End development<br>👯 I’m looking to collaborate on IA projects<br>🌱 I’m currently learning IA<br>
+🔭 I’m currently working as Full-Stack developer<br>👯 I’m looking to collaborate on IA projects<br>🌱 I’m currently learning IA<br>
 
 
 ## 🌐 Socials:
